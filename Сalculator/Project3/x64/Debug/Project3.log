@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\79284\source\repos\Граф.Калькулятор\Project3\MyForm.h(492,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\79284\source\repos\Граф.Калькулятор\Project3\MyForm.h(497,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project3.vcxproj -> C:\Users\79284\source\repos\Граф.Калькулятор\x64\Debug\Project3.exe
