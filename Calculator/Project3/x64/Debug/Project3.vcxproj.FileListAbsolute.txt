@@ -1,0 +1,8 @@
+C:\Users\79284\source\repos\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\79284\source\repos\Project3\Project3\x64\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\79284\source\repos\Project3\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\79284\source\repos\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\79284\source\repos\Граф.Калькулятор\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\79284\source\repos\Граф.Калькулятор\Project3\x64\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\79284\source\repos\Граф.Калькулятор\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\79284\source\repos\Граф.Калькулятор\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
